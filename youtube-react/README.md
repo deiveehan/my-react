@@ -4,6 +4,7 @@ Simple youtube react app.
 
 ```shell
 git clone https://github.com/deiveehan/xplore-react.git
+cd youtube-react
 ```
 
 ## Update Youtube API key
