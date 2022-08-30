@@ -1,25 +1,21 @@
-# ReduxSimpleStarter
+Simple youtube react app. 
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+#Build and deploy
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+```shell
+git clone https://github.com/deiveehan/xplore-react.git
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+## Update Youtube API key
+Create a youtube api key and add it in index.js api. 
+const API_KEY='<enter-your-api-key>';
+
+## Build and deploy
+```shell
+npm install
+npm start
 
 ```
-> npm install
-> npm start
-```
+
+## Run app
+http://localhost:8080
